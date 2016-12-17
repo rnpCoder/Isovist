@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HowHot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OwmApiKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">09f0011992e43cb67101d3d5a62ff152</Value>
+    </Setting>
+    <Setting Name="SingleCityId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">6241325</Value>
+    </Setting>
+    <Setting Name="MultiCityIds" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">6241325,2180320,2192362</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,8 @@
+c:\users\raval\documents\visual studio 2015\Projects\HowHot\HowHot\bin\Debug\HowHot.exe.config
+c:\users\raval\documents\visual studio 2015\Projects\HowHot\HowHot\bin\Debug\HowHot.exe
+c:\users\raval\documents\visual studio 2015\Projects\HowHot\HowHot\bin\Debug\HowHot.pdb
+c:\users\raval\documents\visual studio 2015\Projects\HowHot\HowHot\obj\Debug\HowHot.exe
+c:\users\raval\documents\visual studio 2015\Projects\HowHot\HowHot\obj\Debug\HowHot.pdb
+c:\users\raval\documents\visual studio 2015\Projects\HowHot\HowHot\bin\Debug\Newtonsoft.Json.dll
+c:\users\raval\documents\visual studio 2015\Projects\HowHot\HowHot\bin\Debug\Newtonsoft.Json.xml
+c:\users\raval\documents\visual studio 2015\Projects\HowHot\HowHot\obj\Debug\HowHot.csprojResolveAssemblyReference.cache
